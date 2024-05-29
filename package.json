@@ -1,0 +1,14 @@
+{
+  "name": "my-dynamic-ui",
+  "version": "1.0.0",
+  "description": "A dynamic UI design project",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "live-server public"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
